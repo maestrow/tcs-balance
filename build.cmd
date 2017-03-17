@@ -1,0 +1,1 @@
+msbuild TcsBalance\TcsBalance.fsproj
